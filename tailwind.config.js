@@ -6,19 +6,13 @@ module.exports = {
     darkMode: 'class',
     theme: {
       extend: {
+        backgroundImage: {
+          'header': "url('/assets/bg.jpg')",
+        },
         colors: {
           primary: {
-            50: '#eafff7',
-            100: '#cdfeea',
-            200: '#9ffbdb',
-            300: '#5df3c7',
-            400: '#24e3b1',
-            500: '#00ca9c',
-            600: '#00a580',
-            700: '#00846a',
-            800: '#006855',
-            900: '#005547',
-            950: '#003029',
+            50: '#c70039',
+            100: '#ab0031',
           },
         },
       },
