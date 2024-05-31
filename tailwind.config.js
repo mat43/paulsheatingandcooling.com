@@ -8,6 +8,7 @@ module.exports = {
       extend: {
         backgroundImage: {
           'header': "url('/assets/bg.jpg')",
+          'secondary':"url('/assets/secondary.jpg')",
         },
         colors: {
           primary: {
