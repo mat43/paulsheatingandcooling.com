@@ -10,7 +10,9 @@ module.exports = {
           'header': "url('/assets/bg.jpg')",
           'secondary': "url('/assets/secondary.jpg')",
           'specials': "url('/assets/specials.jpg')",
-          'first': "url('/assets/temp.jpg')",
+          'first': "url('/assets/install.jpg')",
+          'second': "url('/assets/second.jpg')",
+          'third': "url('/assets/third.jpg')",
         },
         colors: {
           primary: {
